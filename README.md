@@ -7,3 +7,7 @@ git config --global user.email "ethiohope2@gmail.com"
 # Name it "TechnicalAnalysis"
 # Initialize with README
 # Create repository
+git clone https://github.com/yourusername/TechnicalAnalysis.git
+cd TechnicalAnalysis
+mkdir Assignment1
+cd Assignment1
