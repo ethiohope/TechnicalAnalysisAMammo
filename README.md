@@ -11,3 +11,6 @@ git clone https://github.com/yourusername/TechnicalAnalysis.git
 cd TechnicalAnalysis
 mkdir Assignment1
 cd Assignment1
+# In RStudio console
+version
+# Should display R version information
