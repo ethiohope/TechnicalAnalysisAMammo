@@ -1,6 +1,6 @@
 # Initialize Git locally
-git config --global user.name "Your Name"
-git config --global user.email "your.email@example.com"
+git config --global user.name "Alebachew Mammo Aleayehu"
+git config --global user.email "ethiohope2@gmail.com"
 
 # Create repository on GitHub
 # Click "New" repository
